@@ -1,0 +1,13 @@
+So far I have learned the following commands in git
+    - git clone "SSH URL" inside my repo folder
+    - git remote -v to see the URL of my repository
+So here fore the Git WorkFlow
+    - I created a file inside the git_test folder using touch commands
+    - used git status to see file those were not staged "Shown in red"
+    - git add "file.extension", to add it to my Github repo
+    - so to commit from stagin area 
+        * I used git commit -m "Add Filename.extension" 
+    - git log / shows the details of who made the changes
+Modifying a File or Two
+    - code . to open my repository files in Visual Studio
+    - git add . to add all the files in the staging area
